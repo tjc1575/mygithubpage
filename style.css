@@ -317,6 +317,10 @@ footer {
   text-align: center;
 }
 
+ol {
+  list-style-type: upper-roman;
+}
+
 .highlight {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;
