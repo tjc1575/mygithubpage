@@ -7,8 +7,17 @@
     <atom:link href="http://taylorcarpenter.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Thesis Progress - Sensor Systems</title>
+        <description>&lt;p&gt;The data logger for the heart rate sensor has been completed and is working well. This means that both sensor systems are ready and working for the study. The heart rate sensor being used is ANT+ capable so a small receiver is being used for communication between the computer and the sensor.--more-- The logging script is actually running in a virtual linux machine because the USB libraries necessary for Python to work well with the ANT library are not available for OS X. A C++ program was used in my previous study but the communication was unreliable and not suitable for an extended study. For the EEG sensors, the Emotiv Testbench application will be used to do the recording. This makes the system less streamlined but it is more reliable. &lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://taylorcarpenter.me/Thesis_Progress_3/</link>
+        <guid isPermaLink="true">http://taylorcarpenter.me/Thesis_Progress_3/</guid>
+      </item>
+    
+      <item>
         <title>Thesis Progress - Defense Date Change</title>
-        <description>&lt;p&gt;A schedule has been added to the website that will be kept up to date. The schedule in the proposal will not be changed as the proposal remain consistent with what was submitted. --more-- The thesis defense has been shifted back a day due to a scheduling conflict. This update has been reflected in the posted schedule. As tasks are completed, they will be crossed off the schedule.&lt;/p&gt;
+        <description>&lt;p&gt;A schedule has been added to the website that will be kept up to date. The schedule in the proposal will not be changed as the proposal remain consistent with what was submitted. The thesis defense has been shifted back a day due to a scheduling conflict.--more-- This update has been reflected in the posted schedule. As tasks are completed, they will be crossed off the schedule.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jun 2015 00:00:00 -0400</pubDate>
         <link>http://taylorcarpenter.me/Thesis_Progress_2/</link>
