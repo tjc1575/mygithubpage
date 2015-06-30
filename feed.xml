@@ -7,17 +7,26 @@
     <atom:link href="http://taylorcarpenter.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Thesis Progress - Sensor Systems</title>
-        <description>&lt;p&gt;The data logger for the heart rate sensor has been completed and is working well. This means that both sensor systems are ready and working for the study. The heart rate sensor being used is ANT+ capable so a small receiver is being used for communication between the computer and the sensor.--more-- The logging script is actually running in a virtual linux machine because the USB libraries necessary for Python to work well with the ANT library are not available for OS X. A C++ program was used in my previous study but the communication was unreliable and not suitable for an extended study. For the EEG sensors, the Emotiv Testbench application will be used to do the recording. This makes the system less streamlined but it is more reliable. &lt;/p&gt;
+        <title>Thesis Progress - Study Update</title>
+        <description>&lt;p&gt;The study has been going well. Currently, four participants have finished completely, five participants are partially finished, and the final participant begins tomorrow. The data collection should be concluded by the end of the week. --more--While models have not been generated yet, the subjective workload as reported by the participants aligns with the intended study design. Work is being done on scripts to display the performance metrics of each task in a more easily readable manner.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 23 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://taylorcarpenter.me/Thesis_Progress_3/</link>
-        <guid isPermaLink="true">http://taylorcarpenter.me/Thesis_Progress_3/</guid>
+        <pubDate>Mon, 29 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://taylorcarpenter.me/Thesis_Progress_5/</link>
+        <guid isPermaLink="true">http://taylorcarpenter.me/Thesis_Progress_5/</guid>
       </item>
     
       <item>
         <title>Thesis Progress - The Study Begins</title>
         <description>&lt;p&gt;The study has been approved by the Human Subjects Research Office and work began yesterday. After some trouble with sensors not connecting correctly, everything is now running smoothly. The amount of data being produced is quite large.--more-- After an initial pilot study, a few changes were made to the RanTask configurations and the tasks as a whole. Each trial is now only 10 minutes, rather than 15. This still produces a large amount of data and results in less fatigue on the participants. It was found that conditions 1 and 2 of RanTask were too similar and did not correctly induce varying levels of workload. As such, the conditions were reworked, with condition 1 counting a single tone, condition 2 counting two tones, and condition 3 counting three tones. This makes the task substantially harder, but the goal is not to have a task that everyone can complete, rather to induce different workload levels.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://taylorcarpenter.me/Thesis_Progress_4/</link>
+        <guid isPermaLink="true">http://taylorcarpenter.me/Thesis_Progress_4/</guid>
+      </item>
+    
+      <item>
+        <title>Thesis Progress - Sensor Systems</title>
+        <description>&lt;p&gt;The data logger for the heart rate sensor has been completed and is working well. This means that both sensor systems are ready and working for the study. The heart rate sensor being used is ANT+ capable so a small receiver is being used for communication between the computer and the sensor.--more-- The logging script is actually running in a virtual linux machine because the USB libraries necessary for Python to work well with the ANT library are not available for OS X. A C++ program was used in my previous study but the communication was unreliable and not suitable for an extended study. For the EEG sensors, the Emotiv Testbench application will be used to do the recording. This makes the system less streamlined but it is more reliable. &lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Jun 2015 00:00:00 -0400</pubDate>
         <link>http://taylorcarpenter.me/Thesis_Progress_3/</link>
