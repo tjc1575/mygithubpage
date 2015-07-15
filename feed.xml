@@ -7,6 +7,15 @@
     <atom:link href="http://taylorcarpenter.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Thesis Progress - Beginning of the End</title>
+        <description>&lt;p&gt;All the data that was collected has been processed into a feature file. Multiple models have already been generated but a few more are still going. The random forest models have all been completed, while the neural networks are only half done. --more--At this time I am beginning to write the final thesis report. Even though the models are not entirely complete, there are other sections of the report that can be done without that information. Time is running out so this will be a compressed writing process.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://taylorcarpenter.me/Thesis_Progress_7/</link>
+        <guid isPermaLink="true">http://taylorcarpenter.me/Thesis_Progress_7/</guid>
+      </item>
+    
+      <item>
         <title>Thesis Progress - Study Complete</title>
         <description>&lt;p&gt;The data collection portion of the research has been completed. In the end, data from seven participants was collected. One participant was forced to leave the study before completion due to personal reasons. Two other participants were generating poor data due to issues with sensor placement --more--( cranial size was not taken into account when selecting participants ) and a difficulty descrepency with respect to the tasks. Performance summaries and NASA TLX records have been created for each participant. While statistics have not been calculated yet, the trends seen by eye follow what was expected. Currently work is being done on scripts for the data processing, leveraging work done in my previous research with similarly formatted data. While slightly behind schedule as of now, hopefully that time can be made up within the next few days.&lt;/p&gt;
 </description>
