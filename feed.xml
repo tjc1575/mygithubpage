@@ -7,6 +7,15 @@
     <atom:link href="http://taylorcarpenter.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Thesis Progress - Defense Push Back</title>
+        <description>&lt;p&gt;The defense date for the thesis has been pushed back. The majority of the report has been drafted and the active research has concluded. The new timeline is the end of October / beginning of November. Work and updates will be slower over the next few months as writing and review continues.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Aug 2015 00:00:00 -0400</pubDate>
+        <link>http://taylorcarpenter.me/Thesis_Progress_8/</link>
+        <guid isPermaLink="true">http://taylorcarpenter.me/Thesis_Progress_8/</guid>
+      </item>
+    
+      <item>
         <title>Thesis Progress - Beginning of the End</title>
         <description>&lt;p&gt;All the data that was collected has been processed into a feature file. Multiple models have already been generated but a few more are still going. The random forest models have all been completed, while the neural networks are only half done. --more--At this time I am beginning to write the final thesis report. Even though the models are not entirely complete, there are other sections of the report that can be done without that information. Time is running out so this will be a compressed writing process.&lt;/p&gt;
 </description>
