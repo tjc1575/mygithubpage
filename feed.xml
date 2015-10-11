@@ -7,6 +7,15 @@
     <atom:link href="http://taylorcarpenter.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Thesis Progress - Discussion Progress</title>
+        <description>&lt;p&gt;The results section of the report has been complete in an initial draft. Current work is focused on the discussion section. Ideally a large portion of the remaining work will be completed over the next few days.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2015 00:00:00 -0400</pubDate>
+        <link>http://taylorcarpenter.me/Thesis_Progress_10/</link>
+        <guid isPermaLink="true">http://taylorcarpenter.me/Thesis_Progress_10/</guid>
+      </item>
+    
+      <item>
         <title>Thesis Progress - Analysis Completed</title>
         <description>&lt;p&gt;It has been a little while since the last update. Life has become somewhat busier the past few weeks so progress has slowed. The final statistical tests were completed on the performance data, TLX assessments, and model accuracies. Subsequently, the study portion of the results section has been completed as an initial draft.&lt;/p&gt;
 </description>
@@ -85,15 +94,6 @@
         <pubDate>Fri, 05 Jun 2015 00:00:00 -0400</pubDate>
         <link>http://taylorcarpenter.me/Thesis_Progress_1/</link>
         <guid isPermaLink="true">http://taylorcarpenter.me/Thesis_Progress_1/</guid>
-      </item>
-    
-      <item>
-        <title>The Website Is Up!</title>
-        <description>&lt;p&gt;The website is finally up. I am not a web developer, having shied away from web languages in the past, so it may take some time and trial-and-error to have everything looking nice.--more-- The majority of the site is under construction at this time. I will be adding content as I get breaks in my thesis work.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 05 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://taylorcarpenter.me/Hello-World/</link>
-        <guid isPermaLink="true">http://taylorcarpenter.me/Hello-World/</guid>
       </item>
     
   </channel>
