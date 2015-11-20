@@ -7,6 +7,15 @@
     <atom:link href="http://taylorcarpenter.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Thesis Progress - Defense Announcement</title>
+        <description>&lt;p&gt;It has been a while since the previous post, but tomorrow the thesis defense will be announced. A completed and mostly final draft of the report is now available and linked from the thesis page.--more-- Work now focuses on finishing the presentation and then practicing for the defense.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Nov 2015 00:00:00 -0500</pubDate>
+        <link>http://taylorcarpenter.me/Thesis_Progress_11/</link>
+        <guid isPermaLink="true">http://taylorcarpenter.me/Thesis_Progress_11/</guid>
+      </item>
+    
+      <item>
         <title>Thesis Progress - Discussion Progress</title>
         <description>&lt;p&gt;The results section of the report has been complete in an initial draft. Current work is focused on the discussion section. Ideally a large portion of the remaining work will be completed over the next few days.&lt;/p&gt;
 </description>
@@ -85,15 +94,6 @@
         <pubDate>Mon, 08 Jun 2015 00:00:00 -0400</pubDate>
         <link>http://taylorcarpenter.me/Thesis_Progress_2/</link>
         <guid isPermaLink="true">http://taylorcarpenter.me/Thesis_Progress_2/</guid>
-      </item>
-    
-      <item>
-        <title>Thesis Progress - Proposal Accepted</title>
-        <description>&lt;p&gt;The thesis proposal was accepted today, so I am registered for thesis for the summer term. I cannot start on conducting the study yet as I have not heard back with IRB approval but work will proceed with the surrounding tools and systems.--more-- An email will be going out in the next few days inquiring about the status of the IRB form. The current plan is to have the study completed by the end of June so that I can begin the machine learning portion of the system in July.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 05 Jun 2015 00:00:00 -0400</pubDate>
-        <link>http://taylorcarpenter.me/Thesis_Progress_1/</link>
-        <guid isPermaLink="true">http://taylorcarpenter.me/Thesis_Progress_1/</guid>
       </item>
     
   </channel>
